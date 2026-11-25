@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/vaelis-logo.svg" width="64" alt="Vaelis logo"></p>
+
 # MarketGPT Community Edition
 
 A lightweight, independently usable adaptation of the original Vaelis market-chat interface (not TestMarket). It evaluates user-supplied signals and optionally explains them using Aleph Alpha Kolibri 1.1. It does not generate proprietary signals or execute orders.
@@ -23,3 +25,8 @@ No live market feed, private Vaelis data, strategies, accounts, or advanced rese
 
 ## Contributing
 See CONTRIBUTING.md. Code licensed Apache-2.0; Kolibri weights have their own license and notices.
+
+## Community and attribution
+[Roadmap](ROADMAP.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [Branding](BRANDING.md) · [Trademark terms](TRADEMARK.md)
+
+Run a synthetic example with `node examples/evaluate.mjs`. Optional browser branding is exported from `market-gpt-community/branding`. No license key or mandatory visual branding is required. The project is early-stage; adoption and live model compatibility are not yet established.

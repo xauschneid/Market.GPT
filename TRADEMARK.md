@@ -1,0 +1,2 @@
+# Vaelis branding
+The Apache-2.0 license covers the software, not permission to use Vaelis names or logos as your own brand. The original logo in assets/vaelis-logo.svg is provided for truthful attribution of MarketGPT only. Do not imply endorsement or official affiliation. Modified versions may remove the optional visual attribution and must retain applicable license and notice obligations. No license key or mandatory visual branding is required. All other trademark rights are reserved.

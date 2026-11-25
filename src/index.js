@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// MarketGPT Community Edition — developed by Vaelis contributors.
 // Community adaptation of the original Vaelis market chat and prompt interface.
 // No private strategy, account, database or historical research is included.
 export function evaluate({analysis} = {}) {

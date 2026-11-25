@@ -1,0 +1,9 @@
+name: Feature proposal
+description: Suggest an improvement to standalone analysis
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Problem, proposed solution and limitations
+    validations:
+      required: true

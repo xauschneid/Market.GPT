@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// MarketGPT Community Edition — developed by Vaelis contributors.
 import http from 'node:http';
 import {evaluate,analyze} from './index.js';
 const host=process.env.HOST||'127.0.0.1';

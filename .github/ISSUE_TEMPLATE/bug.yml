@@ -1,0 +1,16 @@
+name: Bug report
+description: Report a reproducible defect
+body:
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps and version
+      description: Use synthetic data; do not include secrets.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
