@@ -12,7 +12,9 @@
   },
   "scripts": {
     "test": "node --test",
-    "start": "node src/server.js"
+    "start": "node src/server.js",
+    "fingerprint": "node scripts/fingerprint.mjs",
+    "verify:fingerprint": "node scripts/fingerprint.mjs --verify"
   },
   "repository": {
     "type": "git",

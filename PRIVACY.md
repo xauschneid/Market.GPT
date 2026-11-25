@@ -1,0 +1,2 @@
+# Privacy and usage
+MarketGPT does not send installation identifiers, domains or telemetry to Vaelis. The optional branding is a normal hyperlink with a local SVG. Analysis data is sent to the Kolibri-compatible endpoint configured by the operator only when AI analysis is requested. Operators must evaluate that endpoint's privacy terms. Local deterministic evaluation requires no network. Commercial use is allowed under Apache-2.0; redistribution obligations still apply. No registration is required.

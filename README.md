@@ -30,3 +30,8 @@ See CONTRIBUTING.md. Code licensed Apache-2.0; Kolibri weights have their own li
 [Roadmap](ROADMAP.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [Branding](BRANDING.md) · [Trademark terms](TRADEMARK.md)
 
 Run a synthetic example with `node examples/evaluate.mjs`. Optional browser branding is exported from `market-gpt-community/branding`. No license key or mandatory visual branding is required. The project is early-stage; adoption and live model compatibility are not yet established.
+
+## Website integration and provenance
+- [Step-by-step website integration](docs/WEBSITE.md)
+- [SHA-256 fingerprint verification](PROVENANCE.md)
+- [Privacy and no telemetry](PRIVACY.md)
